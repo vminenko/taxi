@@ -5,6 +5,7 @@ body {
     justify-content: center; */
     display: grid;
     justify-items: center;
+    background-repeat: no-repeat;
 
 }
 #test {
